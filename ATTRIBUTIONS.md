@@ -1,0 +1,5 @@
+The Online Course Management System is a web-based platform designed to help educators create, manage, and deliver online courses efficiently. This system provides a centralized environment where teachers can upload course materials, manage assignments, track student progress, and conduct assessments, making online teaching more organized and effective.
+
+The platform supports two main user roles: Admin (Educator) and User (Student). Educators can create courses, add learning content, monitor student performance, and evaluate assignments. Students can enroll in courses, access study materials, submit assignments, and track their learning progress.
+
+The goal of this project is to enhance the online education experience by offering an intuitive interface, structured course management, and seamless interaction between teachers and students.
